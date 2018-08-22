@@ -40,3 +40,14 @@ It was a little intimidating as a Junior Developer to be around so many knowledg
 Definitely, I am planning on attending the next meeting. Even if you aren't a Ruby developer, I think you could learn from the speakers and meet some interesting people.
 
 ## Is there anything else that stood out about the event? Please feel free to add additional notes.
+
+Details
+We'll have pizza & beer starting at 6pm, so stop by early if you want to have dinner and socialize before the panel.
+
+PANEL 6:30-8/8:30
+Ruby in Portland 2018 retrospective and 2019 forecast
+* Michael Smith - Principal Engineer @ Puppet Labs
+* Zach Davis - Chief Technologist @ Cast Iron Coding
+* Lauren Voswinkel - Senior Software Engineer @ New Relic
+* Reid Beels - CTO @ The Dyrt
+
