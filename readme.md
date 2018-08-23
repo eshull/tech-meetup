@@ -1,13 +1,20 @@
 
-
 ## What was the name of the tech event?
 
+Portland Ruby Brigade
 ## What date did it occur?
 
+08/07/2018
 
 ## Who/what organization coordinated the event? If there were speakers, who spoke?
-
 The PDX Ruby Brigade put on the event. It was hosted at New Relic in Downtown Portland.
+
+### The following people spoke:
+
+* Michael Smith - Principal Engineer @ Puppet Labs
+* Zach Davis - Chief Technologist @ Cast Iron Coding
+* Lauren Voswinkel - Senior Software Engineer @ New Relic
+* Reid Beels - CTO @ The Dyrt
 
 
 ## What was the format of the event?
@@ -16,7 +23,7 @@ The format of the event was a mixture of presentation, Q&A, and social networkin
 
 ## What was the topic or main focus of the event?
 
-
+The main focus was the four presenters giving their experiences and uses for the Ruby language in their everyday life.
 
 ## What made you want to attend this particular event?
 
@@ -33,7 +40,7 @@ I learned that Ruby is not a dying language like I have heard some people say. I
 
 ## If you could give feedback to the coordinators of the event, what would it be? (Many events send out surveys and ask for feedback. Giving constructive feedback is a great way to contribute to the tech community.)
 
-It was a little intimidating as a Junior Developer to be around so many knowledgeable developers. The organizers did a really great job of making everyone feel welcome.
+It was a little intimidating as a Junior Developer to be around so many knowledgeable developers. The organizers did a really great job of making everyone feel welcome. The event was really well run, I have nothing but positive things to say.
 
 ## Would you recommend the event (or a similar event) to your peers?
 
@@ -41,13 +48,4 @@ Definitely, I am planning on attending the next meeting. Even if you aren't a Ru
 
 ## Is there anything else that stood out about the event? Please feel free to add additional notes.
 
-Details
-We'll have pizza & beer starting at 6pm, so stop by early if you want to have dinner and socialize before the panel.
-
-PANEL 6:30-8/8:30
-Ruby in Portland 2018 retrospective and 2019 forecast
-* Michael Smith - Principal Engineer @ Puppet Labs
-* Zach Davis - Chief Technologist @ Cast Iron Coding
-* Lauren Voswinkel - Senior Software Engineer @ New Relic
-* Reid Beels - CTO @ The Dyrt
-
+The speakers and attendees of the event all came off as very practical and humble people. It was a very refreshing atmosphere.
